@@ -1,0 +1,6 @@
+.terraform.tfstate.lock.info
+terraform.tfstate
+.terraform
+terraform.tfstate.backup
+.debug
+tf.log
