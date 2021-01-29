@@ -87,7 +87,7 @@ terraform apply -auto-approve
 # terraform destroy -auto-approve
 ```
 
-# Testing budgets, alerts and automation
+### Testing budgets, alerts and automation
 
 ```bash
 # Create two resource groups with the same tagging
